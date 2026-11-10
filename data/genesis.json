@@ -1,0 +1,645 @@
+{
+  "source": "https://en.wikipedia.org/wiki/Book_of_Genesis",
+  "retrieved": "2026-11-10",
+  "languageKey": {
+    "author": "language(s) of the original author(s) of the source text discussed",
+    "subject": "language(s) the people/subjects of the text would have spoken",
+    "modern": "modern Latin-script Western language(s) of interpretation/commentary; empty if none"
+  },
+  "paragraphs": [
+    {
+      "id": 1,
+      "section": "Lead",
+      "text": "The Book of Genesis (from Greek Γένεσις, Génesis, 'Origin'; Biblical Hebrew: בְּרֵאשִׁית, romanized: Bərēʾšīṯ, lit. 'In [the] Beginning'; Latin: Liber Genesis) is the first book of the Hebrew Bible and the Christian Old Testament. The Hebrew name bereshit ('in the beginning') is taken directly from the first word. The primary narrative of Genesis includes a legendary account of the creation of the world, the early history of the human race, and the origins of the Jewish people. In Judaism, the theological importance of Genesis centers on the covenants linking God to his chosen people and the people to the Promised Land.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "section": "Lead",
+      "text": "Genesis is part of the Torah, the first five books of the Bible (or Pentateuch). Tradition credits Moses as the Torah's author. However, there is scholarly consensus that the Book of Genesis was composed several centuries later, after the Babylonian captivity, possibly in the fifth century BCE. Like other ancient Israelite texts, the Book of Genesis originally circulated anonymously. Based on the scientific interpretation of archaeological, genetic, and linguistic evidence, mainstream biblical scholars consider Genesis to be primarily mythological rather than historical.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "section": "Lead",
+      "text": "It is divisible into two parts: the primeval history (chapters 1–11) and the ancestral history (chapters 12–50). The primeval history sets out the author's concepts of the nature of the deity and of humanity's relationship with its maker: God creates a world which is good and fit for humans, and God creates a garden for Adam and Eve, but when humanity corrupts the world with sin, he decides to destroy his creation, sparing only the righteous Noah and his family to re-establish the relationship between man and God.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "section": "Lead",
+      "text": "The ancestral history (chapters 12–50) tells of the prehistory of Israel, God's chosen people. At God's command, Noah's descendant Abraham journeys from his birthplace (described as Ur of the Chaldeans and whose identification with Sumerian Ur is tentative in modern scholarship) into God-given land of Canaan, where he dwells as a sojourner, as does his son Isaac and his grandson Jacob. Jacob's name is changed to \"Israel\", and through the agency of his son Joseph, the children of Israel descend into Egypt, 70 people in all with their households, and God promises them a future of greatness. Genesis ends with Israel in Egypt, ready for the coming of Moses and the Exodus (departure). The narrative is punctuated by a series of covenants with God, successively narrowing in scope from all peoples (the covenant with Noah) to a special relationship with one people alone (Abraham and his descendants through Isaac and Jacob).",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "section": "Title",
+      "text": "The name Genesis is from the Latin Vulgate, in turn borrowed or transliterated from Greek Γένεσις, meaning 'origin', which is the name of the book in the Septuagint; in Hebrew, consistent with the naming convention for the Pentateuch, the book is titled by its first word, בְּרֵאשִׁית, meaning 'In [the] beginning'.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew",
+          "Koine Greek",
+          "Latin"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "section": "Composition",
+      "text": "Genesis was written anonymously, but both Jewish and Christian religious tradition attributes the entire Pentateuch—Genesis, Exodus, Leviticus, Numbers and Deuteronomy—to Moses. If Moses had authored Genesis, it would have been written sometime around the 13th century BCE. However, modern scholars believe Genesis was the product of multiple authors and editors writing much later.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "section": "Composition",
+      "text": "During the Enlightenment, the philosophers Baruch Spinoza and Thomas Hobbes questioned Mosaic authorship. In the 17th century, Richard Simon proposed that the Pentateuch was written by multiple authors over a long period. The involvement of multiple authors is suggested by internal contradictions within the text. For example, Genesis includes two creation narratives.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "section": "Composition",
+      "text": "At the end of the 19th century, most scholars adopted the documentary hypothesis. This theory holds that the five books of the Pentateuch come from four sources: the Yahwist (abbreviated as J), the Elohist (E), the Deuteronomist (D) and the Priestly source (P). Each source is held to tell the same basic story, with the sources later combined by various editors. Scholars distinguish sources based on the designations for God. For example, the Yahwist source uses \"Yahweh\", while the Elohistic and Priestly sources use \"Elohim\". Scholars also use repeated and duplicate stories to identify separate sources. In Genesis, these include the two creation stories, three different wife–sister narratives, and two versions of Abraham sending Hagar and Ishmael into the desert.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "section": "Composition",
+      "text": "According to the documentary hypothesis, the sources originated as follows:",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "section": "Composition",
+      "text": "Advocates of the documentary hypothesis, therefore, theorize that Genesis and the rest of the Pentateuch did not reach final form until after the Babylonian exile. There was thus a large gap between the earliest sources of the Pentateuch and the period they claim to describe, which ended c. 1200 BCE.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "section": "Composition",
+      "text": "Most scholars held to the documentary hypothesis until the 1980s. Since then, several variations and revisions have been proposed. One alternative is the fragmentary hypothesis, which holds that the Pentateuch was formed from short, self-contained stories (such as the Tower of Babel account in Genesis 11:1–9 or Abraham's journey to Egypt in Genesis 12:10-20) that were later combined and edited by a redactor. The supplementary hypothesis posits three main sources for the Pentateuch: D, J, and P. In this theory, the E source has been combined with J, which is understood to be a body of diverse traditional material. The supplementary hypothesis holds that there was no redactor, but each author expanded the Pentateuch by supplementation.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "section": "Composition",
+      "text": "In the 21st century, most scholars agree that Genesis reached its final form after the Babylonian exile, possibly in the fifth century BCE. Ronald Hendel and Aaron Hornkohl propose a date before the Persian period (before 550 BCE) on linguistic grounds. Russell Gmirkin has argued that Genesis was composed in the late 270s BCE, drawing on Greek sources like Berossus's Babyloniaca and reflecting the political context of the Seleucid and Ptolemaic realms.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "section": "Composition",
+      "text": "Julius Wellhausen argued that the Pentateuch was finalized in the time of Ezra. Ezra 7:14 records that Ezra travelled from Babylon to Jerusalem in 458 BCE with God's law in his hand. Wellhausen argued that this was the newly compiled Pentateuch. Wellhausen believed Nehemiah 8 through Nehemiah 10 describes the publication and public acceptance of this new law code c. 444 BCE.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English",
+          "German"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "section": "Composition",
+      "text": "As for why the book was created, a controversial theory that has attracted considerable interest is that of Persian imperial authorisation. This proposes that the Persians of the Achaemenid Empire, after their conquest of Babylon in 539 BCE, granted Jerusalem a large measure of local autonomy within the empire but required local authorities to produce a single law code for the entire community. The two powerful groups making up the community—the priestly families who controlled the Second Temple and who traced their origin to Moses and the wilderness wanderings, and the major landowning families who made up the \"elders\" and traced their origins to Abraham, who had \"given\" them the land—were in conflict over many issues, and each had its own \"history of origins\". But the Persian promise of greatly increased local autonomy for all provided a powerful incentive to cooperate in producing a single text.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "section": "Genre",
+      "text": "Genesis is an example of a work in the \"antiquities\" genre, as the ancient Romans knew it, a popular genre telling of the appearance of humans and their ancestors and heroes, with elaborate genealogies and chronologies fleshed out with stories and anecdotes. Notable examples are found in the works of ancient Greek historians (6th century BCE): their intention was to connect notable families of their own day to a distant and heroic past, and in doing so they did not distinguish between myth, legend, and facts. Professor Jean-Louis Ska of the Pontifical Biblical Institute calls the basic rule of the antiquarian historian the \"law of conservation\": everything old is valuable, nothing is eliminated. This antiquity was needed to prove the worth of Israel's traditions to the nations (the neighbours of the Jews in the early Persian province of Judea), and to reconcile and unite the various factions within Israel itself.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "section": "Genre",
+      "text": "Describing the work of the biblical authors, John Van Seters wrote that lacking many historical traditions and none from the distant past, \"They had to use myths and legends for earlier periods. In order to make sense out of the variety of different and often conflicting versions of stories, and to relate the stories to each other, they fitted them into a genealogical chronology.\" Tremper Longman describes Genesis as theological history: \"the fact that these events took place is assumed, and not argued. The concern of the text is not to prove the history but rather to impress the reader with the theological significance of these acts\".",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "section": "Textual variation",
+      "text": "The original manuscripts are lost, and the text of surviving copies varies. There are four major groupings of surviving manuscripts: the Masoretic Text, the Samaritan Pentateuch (in Samaritan script), the Septuagint (a Greek translation), and fragments of Genesis found in the Dead Sea Scrolls. The Dead Sea Scrolls are oldest but cover only a small portion of the book.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew",
+          "Koine Greek",
+          "Samaritan Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "section": "Structure",
+      "text": "Genesis appears to be structured around the recurring phrase elleh toledot, meaning \"these are the generations\", with the first use of the phrase referring to the \"generations of heaven and earth\" and the remainder marking individuals. The toledot formula, occurring eleven times in the book of Genesis, serves as a heading which marks a transition to a new subject. The toledot divide the book into the following sections:",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "section": "Structure",
+      "text": "It is not clear, however, what this meant to the original authors, and most modern commentators divide it into two parts based on the subject matter, a primeval history (chapters 1–11) and a patriarchal history (chapters 12–50). While the first is far shorter than the second, it sets out the basic themes and provides an interpretive key for understanding the entire book. The primeval history has a symmetrical structure hinging on the flood story (chapters 6–9) with the events before the flood mirrored by the events after. The ancestral history is structured around the three patriarchs Abraham, Jacob and Joseph. The stories of Isaac arguably do not make up a coherent cycle of stories and function as a bridge between the cycles of Abraham and Jacob.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "section": "Summary",
+      "subsection": "Primeval history (chapters 1–11)",
+      "text": "The Genesis creation narrative comprises two different stories; the first two chapters roughly correspond to these. In the first, Elohim, the generic Hebrew word for 'gods') (rendered as \"God\" in English translations), creates the heavens and the earth including man, in six stages or phases (translated as \"days\"), and rests on the seventh. In the second, Yahweh elohim (rendered as \"the LORD God\" in English translations), creates two individuals, Adam and Eve, as the first man and woman, and places them in the Garden of Eden.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew"
+        ],
+        "modern": []
+      }
+    },
+    {
+      "id": 21,
+      "section": "Summary",
+      "subsection": "Primeval history (chapters 1–11)",
+      "text": "\"The LORD God\" commands the man that he is free to eat from any tree, including the tree of life, except from the tree of the knowledge of good and evil. A serpent, portrayed as a deceptive creature or trickster, persuades Eve to eat the fruit. She then persuades Adam to eat it. Both become ashamed of their nudity, and are discovered by God, who exiles them from Eden and punishes them. Adam is forced to gain his sustenance by difficult toil, and Eve to giving birth in pain. This is interpreted by Christians as the \"fall of man\" into sin. Eve bears two sons, Cain and Abel. Cain works in the garden, and Abel works with meat; they both offer offerings to God one day, though God does not accept Cain's offering but does accept Abel's. This causes Cain to resent Abel; he takes Abel to a field and murders him. God then curses Cain. Eve bears another son, Seth, to take Abel's place.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "section": "Summary",
+      "subsection": "Primeval history (chapters 1–11)",
+      "text": "After many generations of Adam have passed from the lines of Cain and Seth, the world has become corrupted by human sin and Nephilim. God intends to wipe out humanity for their wickedness. However, Noah is righteous and blameless. God then instructs Noah to construct an ark and store in it all the animals, seven pairs of every clean animal and one pair of every unclean. Then God sends a great flood to destroy all the world. When the waters recede, God establishes a covenant with Noah, promising he will never destroy the world with water again, and making a rainbow as a symbol of his promise. God later sees mankind cooperating to build a great tower city, the Tower of Babel. He divides humanity with many languages and sets them apart with confusion. Then, a generation line from Shem to Abram is described.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew",
+          "Akkadian"
+        ],
+        "modern": []
+      }
+    },
+    {
+      "id": 23,
+      "section": "Summary",
+      "subsection": "Patriarchal age (chapters 12–50)",
+      "text": "Abram, a man descended from Noah, is instructed by \"the LORD God\" to travel from his home in Ur of the Chaldees to the land of Canaan. There, God makes a promise to Abram, promising that his descendants shall be as numerous as the stars, but that people will suffer oppression in a foreign land for four hundred years, after which they will inherit the land \"from the river of Egypt to the great river, the river Euphrates\". Abram's name is changed to Abraham and that of his wife and half-sibling Sarai to Sarah (meaning 'princess'). God institutes that all males should be circumcised as a sign of his promise to Abraham. Due to her old age, Sarah tells Abraham to take her Egyptian handmaiden, Hagar, as a second wife. Through Hagar, Abraham fathers Ishmael.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew",
+          "Ancient Egyptian",
+          "Akkadian",
+          "Canaanite"
+        ],
+        "modern": []
+      }
+    },
+    {
+      "id": 24,
+      "section": "Summary",
+      "subsection": "Patriarchal age (chapters 12–50)",
+      "text": "God then plans to destroy the cities of Sodom and Gomorrah for the sins of their people. Abraham pleads for the city, that it may not be destroyed if ten righteous people are found there. Angels remove Abraham's nephew, Lot, and his family from Sodom. The cities are destroyed; his wife turns to view them and is turned into a pillar of salt. Lot's daughters, concerned that they are fugitives who will never find husbands, inebriate Lot so they can become pregnant by him, and give birth to the ancestors of the Moabites and Ammonites.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew",
+          "Canaanite"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "section": "Summary",
+      "subsection": "Patriarchal age (chapters 12–50)",
+      "text": "Abraham and Sarah go to the Philistine town of Gerar, claiming to be brother and sister. The King of Gerar takes Sarah for his wife, but God warns him to return her and he obeys. God sends Sarah a son and tells her she should name him Isaac; through him will be the establishment of the covenant. Sarah then drives Ishmael and his mother Hagar out into the wilderness, but God saves them and promises to make Ishmael a great nation.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew",
+          "Canaanite"
+        ],
+        "modern": []
+      }
+    },
+    {
+      "id": 26,
+      "section": "Summary",
+      "subsection": "Patriarchal age (chapters 12–50)",
+      "text": "\"God\" tests Abraham by demanding that he sacrifice Isaac. As Abraham is about to lay the knife upon his son, \"the Angel of the LORD\" restrains him, rewarding his obedience by promising him again innumerable descendants. On the death of Sarah, Abraham purchases Machpelah (believed to be modern Hebron) for a family tomb and sends his servant to Mesopotamia to find among his relations a wife for Isaac; after proving herself worthy, Rebekah becomes Isaac's betrothed. Keturah, Abraham's other wife, births more children, among whose descendants are the Midianites. Abraham dies at a prosperous old age and his family lays him to rest in Hebron (Machpelah).",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew",
+          "Akkadian"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "section": "Summary",
+      "subsection": "Patriarchal age (chapters 12–50)",
+      "text": "Isaac's wife Rebekah gives birth to the twins Esau, father of the Edomites, and Jacob. Esau, being born first, is owed the birthright; however, through carelessness, he sells his birthright to Jacob for a bowl of stew. Rebekah ensures Jacob rightly gains his father's blessing as the firstborn son and inheritor. At 77 years of age, Jacob seeks a wife and meets Rachel at a well. He goes to her father and his uncle, Laban, where he works for fourteen years to acquire Leah, Laban's first-born daughter, and Rachel. Jacob leads his family out of Laban's household; by his wives and their handmaidens he has twelve sons, the ancestors of the Twelve Tribes of Israel, and a daughter, Dinah. Jacob's name is changed to Israel after wrestling with an angel.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew",
+          "Aramaic"
+        ],
+        "modern": []
+      }
+    },
+    {
+      "id": 28,
+      "section": "Summary",
+      "subsection": "Patriarchal age (chapters 12–50)",
+      "text": "Shechem, son of Hamor the Hivite, rapes Dinah and asks his father to get Dinah for him as his wife, Jacob agrees to the marriage but requires that all the males of Hamor's tribe be circumcised, including Hamor and Shechem. Jacob's sons Simeon and Levi murder all the males in Hamor's tribe while they are recuperating from their circumcisions. Jacob warns that their act would mean retribution by others, namely the Canaanites and Perizzites. Jacob and his tribe take all Hivite property.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew",
+          "Canaanite"
+        ],
+        "modern": []
+      }
+    },
+    {
+      "id": 29,
+      "section": "Summary",
+      "subsection": "Patriarchal age (chapters 12–50)",
+      "text": "Joseph, Jacob's favorite son of the twelve, makes his brothers jealous. They covertly sell Joseph into slavery in Egypt. Joseph endures many trials including being innocently sentenced to jail but remains faithful to God. After several years, he prospers there after the pharaoh of Egypt asks him to interpret a dream he had about an upcoming famine, which Joseph does through God. He is then made second in command of Egypt by the grateful pharaoh, and later on, he is reunited with his father and brothers, who fail to recognize him and plead for food as the famine reaches Canaan. After testing their faith, Joseph reveals himself, forgives them for their actions, and lets them and their households into Egypt, where Pharaoh assigns to them the land of Goshen. Jacob calls his sons to his bedside and reveals their future before he dies. Joseph lives to old age and tells his brothers before his death that if God leads them out of the country, then they should take his bones with them.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew",
+          "Ancient Egyptian",
+          "Canaanite"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "section": "Themes",
+      "subsection": "Promises to the ancestors",
+      "text": "In 1978, David Clines published The Theme of the Pentateuch. Considered influential as one of the first authors to take up the question of the overarching theme of the Pentateuch, Clines' conclusion was that the overall theme is \"the partial fulfilment—which implies also the partial nonfulfillment—of the promise to or blessing of the Patriarchs\". (By calling the fulfilment \"partial\", Clines was drawing attention to the fact that at the end of Deuteronomy the people of Israel are still outside Canaan.)",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "section": "Themes",
+      "subsection": "Promises to the ancestors",
+      "text": "The patriarchs, or ancestors, are Abraham, Isaac and Jacob, with their wives (Joseph is normally excluded). Since the name YHWH had not been revealed to them, they worshipped El in his various manifestations. (It is, however, worth noting that in the Jahwist source, the patriarchs refer to deity by the name YHWH, for example in Genesis 15.) Through the patriarchs, \"the LORD God\" announces the election of Israel, that is, he chooses Israel to be his special people and commits himself to their future. God tells the patriarchs that he will be faithful to their descendants (i.e. to Israel), and Israel is expected to have faith in God and his promise. (\"Faith\" in the context of Genesis and the Hebrew Bible means an agreement to the promissory relationship, not a body of a belief.)",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "section": "Themes",
+      "subsection": "Promises to the ancestors",
+      "text": "The promise itself has three parts: offspring, blessings, and land. The fulfilment of the promise to each patriarch depends on having a male heir, and the story is constantly complicated by the fact that each prospective mother—Sarah, Rebekah and Rachel—is barren. The ancestors, however, retain their faith in God, and God in each case gives a son—in Jacob's case, twelve sons, the foundation of the chosen Israelites. Each succeeding generation of the three promises attains a more rich fulfilment, until through Joseph \"all the world\" attains salvation from famine, and by bringing the children of Israel down to Egypt he becomes the means through which the promise can be fulfilled.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "section": "Themes",
+      "subsection": "God's chosen people",
+      "text": "Scholars generally agree that the theme of divine promise unites the patriarchal cycles, but many would dispute the efficacy of trying to examine Genesis' theology by pursuing a single overarching theme, instead citing as more productive the analysis of the Abraham cycle, the Jacob cycle, and the Joseph cycle, and the Yahwist and Priestly sources. The problem lies in finding a way to unite the patriarchal theme of the divine promise to the stories of Genesis 1–11 (the primeval history) with their theme of God's forgiveness in the face of man's evil nature. One solution is to see the patriarchal stories as resulting from God's decision not to remain alienated from man: \"The LORD God\" creates the world and humans, humans rebel, and God \"elects\" (chooses) Abraham.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "section": "Themes",
+      "subsection": "God's chosen people",
+      "text": "To this basic plot (which comes from the Yahwist), the Priestly source has added a series of covenants dividing history into stages, each with its own distinctive \"sign\". The first covenant is between God and all living creatures, and is marked by the sign of the rainbow; the second is with the descendants of Abraham (Isaac and Ishmael), and its sign is circumcision; and the last, which does not appear until the Book of Exodus, is with Israel alone, and its sign is Sabbath. A great leader mediates each covenant (Noah, Abraham, Moses), and at each stage God progressively reveals himself by his name (Elohim with Noah, El Shaddai with Abraham, Yahweh with Moses).",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "section": "Themes",
+      "subsection": "Deception",
+      "text": "Throughout Genesis, various figures engage in deception or trickery to survive or prosper. Biblical scholar David M. Carr notes that such stories reflect the vulnerability felt by ancient Israelites and that \"such stories can be a major way of gaining hope and resisting domination\". Examples include:",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [
+          "Biblical Hebrew"
+        ],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "section": "Cultural impact",
+      "text": "By totaling the spans of time recorded in the genealogies of Genesis, various Jewish and Christian chronologers have calculated what they regard as the age of the world since creation. This Anno Mundi system of counting years is the basis of the Hebrew calendar and Byzantine calendar.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "section": "Cultural impact",
+      "text": "During the Protestant Reformation, rivalry between Catholic and Protestant Christians led to a closer study of the Bible and a competition to take its words more seriously. Thus, scholars in Europe from the 16th to the 19th century treated the book of Genesis as factual. As evidence in the fields of paleontology, geology and other sciences was uncovered, scholars tried to fit these discoveries into the Genesis creation account. For example, Johann Jakob Scheuchzer in the 18th century believed that fossils were the remains of creatures killed during the flood. This literal understanding of Genesis fell out of favor with scholars during the Victorian crisis of faith as evidence mounted that the Earth was far older than six thousand years.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "section": "Cultural impact",
+      "text": "The Book of Genesis has had a significant cultural impact on later ideas about human dignity and moral worth, particularly through its assertion that humanity (adam, meaning humankind) is created in the image of \"God\". This concept has been widely interpreted as affirming the intrinsic value of every human being, regardless of social rank or political status, and became a foundational theme within Judaism, Christianity, and Islam. Scholars have noted that this biblical anthropology influenced later Western moral and political thought, including Enlightenment-era discussions of natural rights and human equality. In this context, religion professor Elaine Pagels cited elements of Genesis as part of the intellectual background to documents such as the United States Declaration of Independence, which frames rights to life and liberty as universal and grounded in nature and divine authority, even as those ideas were articulated through secular philosophical traditions shaped by early modern Europe.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "section": "Judaism's weekly Torah portions",
+      "text": "It is a custom among religious Jewish communities for a weekly Torah portion, popularly referred to as a parashah, to be read during Jewish prayer services on Saturdays, Mondays and Thursdays. The full name, פָּרָשַׁת הַשָּׁבוּעַ, Parashat ha-Shavua, is popularly abbreviated to parashah (also parshah /pɑːrʃə/ or parsha), and is also known as a Sidra (or Sedra /sɛdrə/).",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "section": "Judaism's weekly Torah portions",
+      "text": "The parashah is a section of the Torah (Five Books of Moses) used in Jewish liturgy during a particular week. There are 54 weekly parshas, or parashiyot in Hebrew, and the full cycle is read over the course of one Jewish year.",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "section": "Judaism's weekly Torah portions",
+      "text": "The first 12 of the 54 come from the Book of Genesis, and they are:",
+      "languages": {
+        "author": [
+          "Biblical Hebrew"
+        ],
+        "subject": [],
+        "modern": [
+          "English"
+        ]
+      }
+    }
+  ]
+}
