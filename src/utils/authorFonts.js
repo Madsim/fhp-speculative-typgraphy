@@ -9,7 +9,7 @@ const names = [
 ]
 
 // Sorted so the assignment is stable; each author gets a unique font, none are shared.
-const sorted = [...new Set(names)].sort((a, b) => a.localeCompare(b))
+const sorted = [...new Set(names.filter(Boolean))].sort((a, b) => a.localeCompare(b))
 
 export const authorFonts = Object.fromEntries(
   sorted.slice(0, handwritingFonts.length).map((author, index) => [author, handwritingFonts[index].family])
