@@ -1,14 +1,12 @@
 import { Container, Typography } from '@mui/material'
 
 import ParagraphStack from './ParagraphStack'
-import TalkSection from './TalkSection'
 
 import buildLayers from '../utils/buildLayers'
 
 import genesis from '../../data/genesis.json'
 import authors from '../../data/genesis.authors.json'
 import translations from '../../data/genesis.layers.json'
-import talk from '../../data/genesis.talk.json'
 
 const paragraphs = genesis.paragraphs.map((paragraph, index) => ({
   ...paragraph,
@@ -33,19 +31,6 @@ const App = () => (
         }
         <ParagraphStack layers={layers} />
       </div>
-    ))}
-    <Typography
-      variant="h4"
-      sx={{ mt: 8, mb: 3 }}
-    >
-      Discussion
-    </Typography>
-    {talk.sections.map(({ title, comments }) => (
-      <TalkSection
-        key={title}
-        title={title}
-        comments={comments}
-      />
     ))}
   </Container>
 )
