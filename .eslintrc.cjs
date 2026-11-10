@@ -7,6 +7,15 @@ module.exports = {
     ecmaFeatures: { jsx: true }
   },
   plugins: ['import'],
+  overrides: [
+    {
+      files: ['src/data/**/*.js'],
+      rules: {
+        'max-len': 'off',
+        'object-curly-newline': 'off'
+      }
+    }
+  ],
   rules: {
     semi: ['error', 'never'],
     'comma-dangle': ['error', 'never'],
@@ -20,7 +29,10 @@ module.exports = {
     'no-async-promise-executor': 'error',
     'import/newline-after-import': ['error', { count: 1 }],
     'react/function-component-definition': ['error', { namedComponents: 'arrow-function' }],
+    'max-len': ['error', 120, { ignoreStrings: true, ignoreTemplateLiterals: true, ignoreComments: true, ignoreUrls: true }],
     'react/prop-types': 'off',
+    'react/require-default-props': 'off',
+    'react/forbid-prop-types': 'off',
     'react/react-in-jsx-scope': 'off',
     'react/no-multi-comp': ['error', { ignoreStateless: false }],
     'react/jsx-filename-extension': ['error', { extensions: ['.js', '.jsx'] }],
